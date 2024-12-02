@@ -1,1 +1,1 @@
-# Analyse-et-D-tection-des-Tumeurs-C-r-brales
+# Analyse-et-Détection-des-Tumeurs-Cérébrales
